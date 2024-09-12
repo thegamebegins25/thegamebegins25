@@ -1,3 +1,3 @@
-# Hello, my name is thegamebegins25!
+# Hello, my name is Will Patti!
 
 I'm the owner of Geneplore AI, a small project focused on making AI easier to use for consumers and developers alike.
